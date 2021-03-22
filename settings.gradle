@@ -1,0 +1,3 @@
+include ':DrawableBitmapConverterLibrary'
+include ':app'
+rootProject.name = "DrawableBitMapConverterExample"
